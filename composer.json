@@ -1,7 +1,7 @@
 {
     "name": "promet/provus_meridian_content",
     "description": "Meridian County content.",
-    "type": "project",
+    "type": "drupal-module",
     "keywords": ["Drupal", "Provus"],
     "minimum-stability": "dev",
     "require": {}
