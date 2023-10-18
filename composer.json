@@ -1,5 +1,5 @@
 {
-    "name": "promet/provus_meridian_content",
+    "name": "promet/provus-meridian-content",
     "description": "Meridian County content.",
     "type": "drupal-custom-module",
     "keywords": ["Drupal", "Provus"],
