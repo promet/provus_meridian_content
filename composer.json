@@ -4,11 +4,5 @@
     "type": "drupal-custom-module",
     "keywords": ["Drupal", "Provus"],
     "minimum-stability": "dev",
-    "require": {},
-    "extra": {
-        "installer-paths": {
-            "web/modules/custom/{$name}": ["vendor/package"],
-            "sites/example.com/themes/{$name}": ["type:drupal-theme"]
-        }
-    }
+    "require-dev": {}
 }
