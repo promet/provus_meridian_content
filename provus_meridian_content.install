@@ -1,0 +1,28 @@
+<?php
+
+/**
+ * Implements hook_install().
+ */
+function provus_meridian_content_install() {
+  // Run importer.
+  $importer = \Drupal::service('default_content_deploy.importer');
+  $importer->setForceOverride(TRUE);
+  // Assuming this was installed in the custom folder.
+  $importer->setFolder('modules/custom/provus-meridian-content/content');
+  $importer->prepareForImport();
+  $importer->import();
+
+  // Set homepage.
+  $path = \Drupal::service('path_alias.manager')->getPathByAlias('/homepage');
+  Drupal::configFactory()
+      ->getEditable('system.site')
+      ->set('page.front', $path)
+      ->save(TRUE);
+  // Get nid of homepage and exclude node title.
+  list($nothing, $nothing, $nid) = explode('/', $path);
+  $nids = [$nid];
+  Drupal::configFactory()
+      ->getEditable('exclude_node_title.settings')
+      ->set('nid_list', $nids)
+      ->save(TRUE);
+}
