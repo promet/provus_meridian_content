@@ -1,26 +1,26 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/provus-local.docksal.site\/events\/some-event-1?_format=hal_json"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/events\/some-event-1?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/provus-local.docksal.site\/rest\/type\/node\/provus_event"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_event"
         },
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ]
     },
     "nid": [
         {
-            "value": 7
+            "value": 5
         }
     ],
     "uuid": [
@@ -46,36 +46,36 @@
         }
     ],
     "_embedded": {
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "e1c05df7-2211-4fd5-9b4f-57d94efeb3a5"
                     }
                 ]
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "e1c05df7-2211-4fd5-9b4f-57d94efeb3a5"
                     }
                 ],
                 "lang": "en"
@@ -135,7 +135,7 @@
     "path": [
         {
             "alias": "\/events\/some-event-1",
-            "pid": 7,
+            "pid": 5,
             "langcode": "en",
             "lang": "en"
         }
@@ -149,15 +149,11 @@
             "lang": "en"
         }
     ],
-    "field_provus_smartdate": [
-        {
-            "value": "2023-09-19T08:00:00+00:00",
-            "end_value": "2023-09-19T09:00:00+00:00",
-            "duration": 60,
-            "rrule": null,
-            "rrule_index": null,
-            "timezone": "",
-            "format": "Y-m-d\\TH:i:sP"
-        }
-    ]
+    "value": "2023-09-19T08:00:00+00:00",
+    "end_value": "2023-09-19T09:00:00+00:00",
+    "duration": 60,
+    "rrule": null,
+    "rrule_index": null,
+    "timezone": "",
+    "format": "Y-m-d\\TH:i:sP"
 }

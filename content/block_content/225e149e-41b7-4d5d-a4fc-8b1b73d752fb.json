@@ -1,0 +1,97 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/174?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_media"
+        },
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/43\/edit?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 174
+        }
+    ],
+    "uuid": [
+        {
+            "value": "225e149e-41b7-4d5d-a4fc-8b1b73d752fb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "provus_media"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-10-25T02:36:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "(Media) - 188982126",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-25T02:36:25+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/43\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "96044ea1-1420-4643-b9d3-add30f172bc9"
+                    }
+                ]
+            }
+        ]
+    }
+}

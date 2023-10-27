@@ -1,15 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/provus-local.docksal.site\/admin\/content\/block\/30?_format=hal_json"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/19?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/provus-local.docksal.site\/rest\/type\/block_content\/provus_button"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_button"
         }
     },
     "id": [
         {
-            "value": 30
+            "value": 19
         }
     ],
     "uuid": [
@@ -42,7 +42,7 @@
     ],
     "info": [
         {
-            "value": "(Button) - 1434512800",
+            "value": "(Button) - 6583986",
             "lang": "en"
         }
     ],

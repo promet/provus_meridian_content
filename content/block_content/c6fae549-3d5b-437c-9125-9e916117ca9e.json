@@ -1,20 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/provus-local.docksal.site\/admin\/content\/block\/20?_format=hal_json"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/2?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/provus-local.docksal.site\/rest\/type\/block_content\/provus_media"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_media"
         },
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/media\/1\/edit?_format=hal_json"
+                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/2\/edit?_format=hal_json"
             }
         ]
     },
     "id": [
         {
-            "value": 20
+            "value": 2
         }
     ],
     "uuid": [
@@ -47,13 +47,13 @@
     ],
     "info": [
         {
-            "value": "(Media) - 598052510",
+            "value": "(Media) - 149456470",
             "lang": "en"
         }
     ],
     "changed": [
         {
-            "value": "2023-09-11T15:58:46+00:00",
+            "value": "2023-10-23T22:47:53+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -76,14 +76,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/media\/1\/edit?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/2\/edit?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/media\/image"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
                     }
                 },
                 "uuid": [

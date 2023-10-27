@@ -1,0 +1,193 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/people\/amelie-laurent?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_person"
+        },
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/44\/edit?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/taxonomy\/term\/1?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 27
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ea2f8d1f-1c8d-47be-8ee1-1c82acb0b428"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "provus_person"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-10-25T02:47:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4afaf6ee-b2d0-494e-96c7-fd625c72e3bd"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4afaf6ee-b2d0-494e-96c7-fd625c72e3bd"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/44\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "60435a0c-ca1b-442f-b36a-bf365f4253fd"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/taxonomy\/term\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/taxonomy_term\/provus_category_person"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c806b269-da86-47b2-8a86-8b64229d3901"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Am\u00e9lie Laurent",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-10-25T02:39:22+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-25T02:47:31+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/people\/amelie-laurent",
+            "pid": 28,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "field_provus_fname": [
+        {
+            "value": "Am\u00e9lie"
+        }
+    ],
+    "field_provus_lname": [
+        {
+            "value": "Laurent"
+        }
+    ]
+}

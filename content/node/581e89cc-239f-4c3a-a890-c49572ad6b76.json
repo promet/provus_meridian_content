@@ -1,31 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/provus-local.docksal.site\/news\/some-news-item-title-2?_format=hal_json"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/news\/some-news-item-title-2?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/provus-local.docksal.site\/rest\/type\/node\/provus_news"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_news"
         },
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/media\/3\/edit?_format=hal_json"
+                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/1\/edit?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 5
+            "value": 1
         }
     ],
     "uuid": [
@@ -51,49 +51,49 @@
         }
     ],
     "_embedded": {
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "e1c05df7-2211-4fd5-9b4f-57d94efeb3a5"
                     }
                 ]
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "e1c05df7-2211-4fd5-9b4f-57d94efeb3a5"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/media\/3\/edit?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/1\/edit?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/media\/image"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
                     }
                 },
                 "uuid": [
@@ -157,7 +157,7 @@
     "path": [
         {
             "alias": "\/news\/some-news-item-title-2",
-            "pid": 5,
+            "pid": 1,
             "langcode": "en",
             "lang": "en"
         }

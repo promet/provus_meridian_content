@@ -1,0 +1,299 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/section-library\/5?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/section_library_template\/section_library_template"
+        },
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/homepage?_format=hal_json"
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/image": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 5
+        }
+    ],
+    "uuid": [
+        {
+            "value": "f920a15b-f6cc-4697-bfda-dd3a2cd6eba6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4afaf6ee-b2d0-494e-96c7-fd625c72e3bd"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/homepage?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_landing_page"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "38ee5133-0589-43b6-8a68-7abf314b6e5f"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "be14d8d1-845f-4603-9d8d-028361063321"
+                    }
+                ],
+                "display": null,
+                "description": null
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "Meridian About Section"
+        }
+    ],
+    "type": [
+        {
+            "value": "section"
+        }
+    ],
+    "entity_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "layout_section": [
+        {
+            "section": {
+                "layout_id": "bootstrap_layout_builder:blb_col_2",
+                "layout_settings": {
+                    "label": "",
+                    "container_wrapper_classes": "",
+                    "container_wrapper_attributes": null,
+                    "container_wrapper": {
+                        "bootstrap_styles": {
+                            "background": {
+                                "background_type": "color"
+                            },
+                            "background_color": {
+                                "class": "bg-primary"
+                            },
+                            "background_media": {
+                                "image": {
+                                    "media_id": null
+                                },
+                                "video": {
+                                    "media_id": null
+                                },
+                                "background_options": {
+                                    "background_position": "center",
+                                    "background_repeat": "no-repeat",
+                                    "background_attachment": "not_fixed",
+                                    "background_size": "cover"
+                                }
+                            },
+                            "padding": {
+                                "class": "_none"
+                            },
+                            "padding_left": {
+                                "class": "_none"
+                            },
+                            "padding_top": {
+                                "class": "_none"
+                            },
+                            "padding_right": {
+                                "class": "_none"
+                            },
+                            "padding_bottom": {
+                                "class": "_none"
+                            },
+                            "margin": {
+                                "class": "_none"
+                            },
+                            "margin_left": {
+                                "class": "_none"
+                            },
+                            "margin_top": {
+                                "class": "_none"
+                            },
+                            "margin_right": {
+                                "class": "_none"
+                            },
+                            "margin_bottom": {
+                                "class": "bs-mb-4"
+                            }
+                        }
+                    },
+                    "container_wrapper_bg_color_class": "",
+                    "container_wrapper_bg_media": null,
+                    "container": "container",
+                    "section_classes": "",
+                    "section_attributes": null,
+                    "regions_classes": {
+                        "blb_region_col_1": "",
+                        "blb_region_col_2": ""
+                    },
+                    "regions_attributes": {
+                        "blb_region_col_1": null,
+                        "blb_region_col_2": null
+                    },
+                    "breakpoints": {
+                        "desktop": "blb_col_6_6",
+                        "tablet": "blb_col_6_6",
+                        "mobile": "blb_col_12"
+                    },
+                    "layout_regions_classes": {
+                        "blb_region_col_1": [
+                            "col-lg-6",
+                            "col-md-6",
+                            "col-12"
+                        ],
+                        "blb_region_col_2": [
+                            "col-lg-6",
+                            "col-md-6",
+                            "col-12"
+                        ]
+                    },
+                    "remove_gutters": "0",
+                    "context_mapping": []
+                },
+                "components": [
+                    {
+                        "uuid": "04f62706-3831-47e1-bac2-f5c728bf4c9f",
+                        "region": "blb_region_col_1",
+                        "configuration": {
+                            "id": "inline_block:provus_media",
+                            "label": "%AutoEntityLabel%",
+                            "label_display": false,
+                            "provider": "layout_builder",
+                            "view_mode": "full",
+                            "block_revision_id": null,
+                            "block_serialized": "O:40:\"Drupal\\block_content\\Entity\\BlockContent\":30:{s:15:\"\u0000*\u0000entityTypeId\";s:13:\"block_content\";s:15:\"\u0000*\u0000enforceIsNew\";b:1;s:12:\"\u0000*\u0000typedData\";N;s:16:\"\u0000*\u0000cacheContexts\";a:0:{}s:12:\"\u0000*\u0000cacheTags\";a:0:{}s:14:\"\u0000*\u0000cacheMaxAge\";i:-1;s:14:\"\u0000*\u0000_serviceIds\";a:0:{}s:18:\"\u0000*\u0000_entityStorages\";a:0:{}s:9:\"\u0000*\u0000values\";a:17:{s:2:\"id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:11:\"revision_id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:4:\"type\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:9:\"target_id\";s:12:\"provus_media\";}}}s:4:\"uuid\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:36:\"11211af5-30b1-4531-8cc9-16d5486528d2\";}}}s:8:\"langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:2:\"en\";}}}s:13:\"revision_user\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_created\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115666\";}}}s:12:\"revision_log\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_default\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:17:\"isDefaultRevision\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:6:\"status\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:4:\"info\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:20:\"(Media) - 1148846330\";}}}s:7:\"changed\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115666\";}}}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:8:\"reusable\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"0\";}}}s:18:\"field_provus_media\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:9:\"target_id\";s:1:\"9\";}}}}s:9:\"\u0000*\u0000fields\";a:0:{}s:19:\"\u0000*\u0000fieldDefinitions\";N;s:12:\"\u0000*\u0000languages\";N;s:14:\"\u0000*\u0000langcodeKey\";s:8:\"langcode\";s:21:\"\u0000*\u0000defaultLangcodeKey\";s:16:\"default_langcode\";s:17:\"\u0000*\u0000activeLangcode\";s:9:\"x-default\";s:18:\"\u0000*\u0000defaultLangcode\";s:2:\"en\";s:15:\"\u0000*\u0000translations\";a:1:{s:9:\"x-default\";a:1:{s:6:\"status\";i:1;}}s:24:\"\u0000*\u0000translationInitialize\";b:0;s:14:\"\u0000*\u0000newRevision\";b:0;s:20:\"\u0000*\u0000isDefaultRevision\";s:1:\"1\";s:13:\"\u0000*\u0000entityKeys\";a:2:{s:6:\"bundle\";s:12:\"provus_media\";s:8:\"revision\";N;}s:25:\"\u0000*\u0000translatableEntityKeys\";a:5:{s:5:\"label\";a:1:{s:9:\"x-default\";s:20:\"(Media) - 1148846330\";}s:8:\"langcode\";a:1:{s:9:\"x-default\";s:2:\"en\";}s:9:\"published\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";s:1:\"1\";}}s:12:\"\u0000*\u0000validated\";b:0;s:21:\"\u0000*\u0000validationRequired\";b:0;s:19:\"\u0000*\u0000loadedRevisionId\";N;s:33:\"\u0000*\u0000revisionTranslationAffectedKey\";s:29:\"revision_translation_affected\";s:37:\"\u0000*\u0000enforceRevisionTranslationAffected\";a:0:{}s:12:\"\u0000*\u0000isSyncing\";b:0;s:8:\"\u0000*\u0000theme\";N;s:19:\"\u0000*\u0000accessDependency\";N;}",
+                            "context_mapping": [],
+                            "type": "provus_media",
+                            "uuid": "a103ea9b-276b-429e-abac-5d57a7843b2a",
+                            "block_uuid": null
+                        },
+                        "weight": 1,
+                        "additional": []
+                    },
+                    {
+                        "uuid": "31da8791-b2ed-45d2-8ede-29d45549acbd",
+                        "region": "blb_region_col_2",
+                        "configuration": {
+                            "id": "inline_block:provus_heading",
+                            "label": "%AutoEntityLabel%",
+                            "label_display": false,
+                            "provider": "layout_builder",
+                            "view_mode": "full",
+                            "block_revision_id": null,
+                            "block_serialized": "O:40:\"Drupal\\block_content\\Entity\\BlockContent\":30:{s:15:\"\u0000*\u0000entityTypeId\";s:13:\"block_content\";s:15:\"\u0000*\u0000enforceIsNew\";b:1;s:12:\"\u0000*\u0000typedData\";N;s:16:\"\u0000*\u0000cacheContexts\";a:0:{}s:12:\"\u0000*\u0000cacheTags\";a:0:{}s:14:\"\u0000*\u0000cacheMaxAge\";i:-1;s:14:\"\u0000*\u0000_serviceIds\";a:0:{}s:18:\"\u0000*\u0000_entityStorages\";a:0:{}s:9:\"\u0000*\u0000values\";a:21:{s:2:\"id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:11:\"revision_id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:4:\"type\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:9:\"target_id\";s:14:\"provus_heading\";}}}s:4:\"uuid\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:36:\"d7e1039d-f86e-4c4d-bbe9-d74f77645dcb\";}}}s:8:\"langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:2:\"en\";}}}s:13:\"revision_user\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_created\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115888\";}}}s:12:\"revision_log\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_default\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:17:\"isDefaultRevision\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:6:\"status\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:4:\"info\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:54:\"Meridian County Water Authority (Heading) - 1787026133\";}}}s:7:\"changed\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115888\";}}}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:8:\"reusable\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"0\";}}}s:22:\"field_provus_alignment\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:4:\"left\";}}}s:28:\"field_provus_decorative_line\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"0\";}}}s:26:\"field_provus_heading_level\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:2:\"H2\";}}}s:22:\"field_provus_sub_title\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:18:\"SUSTAINABLE FUTURE\";}}}s:18:\"field_provus_title\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:31:\"Meridian County Water Authority\";}}}}s:9:\"\u0000*\u0000fields\";a:0:{}s:19:\"\u0000*\u0000fieldDefinitions\";N;s:12:\"\u0000*\u0000languages\";N;s:14:\"\u0000*\u0000langcodeKey\";s:8:\"langcode\";s:21:\"\u0000*\u0000defaultLangcodeKey\";s:16:\"default_langcode\";s:17:\"\u0000*\u0000activeLangcode\";s:9:\"x-default\";s:18:\"\u0000*\u0000defaultLangcode\";s:2:\"en\";s:15:\"\u0000*\u0000translations\";a:1:{s:9:\"x-default\";a:1:{s:6:\"status\";i:1;}}s:24:\"\u0000*\u0000translationInitialize\";b:0;s:14:\"\u0000*\u0000newRevision\";b:0;s:20:\"\u0000*\u0000isDefaultRevision\";s:1:\"1\";s:13:\"\u0000*\u0000entityKeys\";a:2:{s:6:\"bundle\";s:14:\"provus_heading\";s:8:\"revision\";N;}s:25:\"\u0000*\u0000translatableEntityKeys\";a:5:{s:5:\"label\";a:1:{s:9:\"x-default\";s:54:\"Meridian County Water Authority (Heading) - 1787026133\";}s:8:\"langcode\";a:1:{s:9:\"x-default\";s:2:\"en\";}s:9:\"published\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";s:1:\"1\";}}s:12:\"\u0000*\u0000validated\";b:0;s:21:\"\u0000*\u0000validationRequired\";b:0;s:19:\"\u0000*\u0000loadedRevisionId\";N;s:33:\"\u0000*\u0000revisionTranslationAffectedKey\";s:29:\"revision_translation_affected\";s:37:\"\u0000*\u0000enforceRevisionTranslationAffected\";a:0:{}s:12:\"\u0000*\u0000isSyncing\";b:0;s:8:\"\u0000*\u0000theme\";N;s:19:\"\u0000*\u0000accessDependency\";N;}",
+                            "context_mapping": [],
+                            "type": "provus_heading",
+                            "uuid": "8abe6b63-7c86-4b8b-bf40-fdcf46d815f2",
+                            "block_uuid": null
+                        },
+                        "weight": 1,
+                        "additional": []
+                    },
+                    {
+                        "uuid": "ba3bf345-e2d9-49ca-97e6-830814215cad",
+                        "region": "blb_region_col_2",
+                        "configuration": {
+                            "id": "inline_block:provus_basic_text",
+                            "label": "%AutoEntityLabel%",
+                            "label_display": false,
+                            "provider": "layout_builder",
+                            "view_mode": "full",
+                            "block_revision_id": null,
+                            "block_serialized": "O:40:\"Drupal\\block_content\\Entity\\BlockContent\":30:{s:15:\"\u0000*\u0000entityTypeId\";s:13:\"block_content\";s:15:\"\u0000*\u0000enforceIsNew\";b:1;s:12:\"\u0000*\u0000typedData\";N;s:16:\"\u0000*\u0000cacheContexts\";a:0:{}s:12:\"\u0000*\u0000cacheTags\";a:0:{}s:14:\"\u0000*\u0000cacheMaxAge\";i:-1;s:14:\"\u0000*\u0000_serviceIds\";a:0:{}s:18:\"\u0000*\u0000_entityStorages\";a:0:{}s:9:\"\u0000*\u0000values\";a:18:{s:2:\"id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:11:\"revision_id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:4:\"type\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:9:\"target_id\";s:17:\"provus_basic_text\";}}}s:4:\"uuid\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:36:\"9a1fbcbc-3a3a-40aa-b0de-d3fa052032ba\";}}}s:8:\"langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:2:\"en\";}}}s:13:\"revision_user\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_created\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115904\";}}}s:12:\"revision_log\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_default\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:17:\"isDefaultRevision\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:6:\"status\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:4:\"info\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:25:\"(Basic Text) - 1736617452\";}}}s:7:\"changed\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115904\";}}}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:8:\"reusable\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"0\";}}}s:17:\"field_provus_body\";a:1:{s:9:\"x-default\";a:1:{i:0;a:3:{s:5:\"value\";s:378:\"<p><span>Immerse yourself in the captivating landscapes and rich history of Meridian County. From picturesque countryside vistas to bustling town centers, our county offers a harmonious blend of natural beauty and modern living. Explore our diverse attractions, local events, and welcoming communities, and experience the essence of Meridian County like never before.<\/span><\/p>\";s:7:\"summary\";s:0:\"\";s:6:\"format\";s:10:\"basic_html\";}}}s:18:\"field_provus_title\";a:1:{s:9:\"x-default\";a:0:{}}}s:9:\"\u0000*\u0000fields\";a:0:{}s:19:\"\u0000*\u0000fieldDefinitions\";N;s:12:\"\u0000*\u0000languages\";N;s:14:\"\u0000*\u0000langcodeKey\";s:8:\"langcode\";s:21:\"\u0000*\u0000defaultLangcodeKey\";s:16:\"default_langcode\";s:17:\"\u0000*\u0000activeLangcode\";s:9:\"x-default\";s:18:\"\u0000*\u0000defaultLangcode\";s:2:\"en\";s:15:\"\u0000*\u0000translations\";a:1:{s:9:\"x-default\";a:1:{s:6:\"status\";i:1;}}s:24:\"\u0000*\u0000translationInitialize\";b:0;s:14:\"\u0000*\u0000newRevision\";b:0;s:20:\"\u0000*\u0000isDefaultRevision\";s:1:\"1\";s:13:\"\u0000*\u0000entityKeys\";a:2:{s:6:\"bundle\";s:17:\"provus_basic_text\";s:8:\"revision\";N;}s:25:\"\u0000*\u0000translatableEntityKeys\";a:5:{s:5:\"label\";a:1:{s:9:\"x-default\";s:25:\"(Basic Text) - 1736617452\";}s:8:\"langcode\";a:1:{s:9:\"x-default\";s:2:\"en\";}s:9:\"published\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";s:1:\"1\";}}s:12:\"\u0000*\u0000validated\";b:0;s:21:\"\u0000*\u0000validationRequired\";b:0;s:19:\"\u0000*\u0000loadedRevisionId\";N;s:33:\"\u0000*\u0000revisionTranslationAffectedKey\";s:29:\"revision_translation_affected\";s:37:\"\u0000*\u0000enforceRevisionTranslationAffected\";a:0:{}s:12:\"\u0000*\u0000isSyncing\";b:0;s:8:\"\u0000*\u0000theme\";N;s:19:\"\u0000*\u0000accessDependency\";N;}",
+                            "context_mapping": [],
+                            "type": "provus_basic_text",
+                            "uuid": "46d95179-211b-456e-9905-4bcb08b6e361",
+                            "block_uuid": null
+                        },
+                        "weight": 3,
+                        "additional": []
+                    },
+                    {
+                        "uuid": "bf472643-b5fe-40ef-b6af-0b11c25013ef",
+                        "region": "blb_region_col_2",
+                        "configuration": {
+                            "id": "inline_block:provus_button",
+                            "label": "%AutoEntityLabel%",
+                            "label_display": false,
+                            "provider": "layout_builder",
+                            "view_mode": "full",
+                            "block_revision_id": null,
+                            "block_serialized": "O:40:\"Drupal\\block_content\\Entity\\BlockContent\":30:{s:15:\"\u0000*\u0000entityTypeId\";s:13:\"block_content\";s:15:\"\u0000*\u0000enforceIsNew\";b:1;s:12:\"\u0000*\u0000typedData\";N;s:16:\"\u0000*\u0000cacheContexts\";a:0:{}s:12:\"\u0000*\u0000cacheTags\";a:0:{}s:14:\"\u0000*\u0000cacheMaxAge\";i:-1;s:14:\"\u0000*\u0000_serviceIds\";a:0:{}s:18:\"\u0000*\u0000_entityStorages\";a:0:{}s:9:\"\u0000*\u0000values\";a:17:{s:2:\"id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:11:\"revision_id\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";N;}}}s:4:\"type\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:9:\"target_id\";s:13:\"provus_button\";}}}s:4:\"uuid\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:36:\"8bd709cc-d1ae-4473-81e1-a49784b2105e\";}}}s:8:\"langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:2:\"en\";}}}s:13:\"revision_user\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_created\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115927\";}}}s:12:\"revision_log\";a:1:{s:9:\"x-default\";a:0:{}}s:16:\"revision_default\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:17:\"isDefaultRevision\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:6:\"status\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:4:\"info\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:20:\"(Button) - 320852491\";}}}s:7:\"changed\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:10:\"1698115927\";}}}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"1\";}}}s:8:\"reusable\";a:1:{s:9:\"x-default\";a:1:{i:0;a:1:{s:5:\"value\";s:1:\"0\";}}}s:18:\"field_provus_links\";a:1:{s:9:\"x-default\";a:1:{i:0;a:3:{s:3:\"uri\";s:10:\"internal:#\";s:5:\"title\";s:10:\"Learn More\";s:7:\"options\";a:3:{s:10:\"attributes\";a:1:{s:6:\"target\";s:0:\"\";}s:4:\"icon\";s:0:\"\";s:5:\"class\";s:15:\"btn btn-primary\";}}}}}s:9:\"\u0000*\u0000fields\";a:0:{}s:19:\"\u0000*\u0000fieldDefinitions\";N;s:12:\"\u0000*\u0000languages\";N;s:14:\"\u0000*\u0000langcodeKey\";s:8:\"langcode\";s:21:\"\u0000*\u0000defaultLangcodeKey\";s:16:\"default_langcode\";s:17:\"\u0000*\u0000activeLangcode\";s:9:\"x-default\";s:18:\"\u0000*\u0000defaultLangcode\";s:2:\"en\";s:15:\"\u0000*\u0000translations\";a:1:{s:9:\"x-default\";a:1:{s:6:\"status\";i:1;}}s:24:\"\u0000*\u0000translationInitialize\";b:0;s:14:\"\u0000*\u0000newRevision\";b:0;s:20:\"\u0000*\u0000isDefaultRevision\";s:1:\"1\";s:13:\"\u0000*\u0000entityKeys\";a:2:{s:6:\"bundle\";s:13:\"provus_button\";s:8:\"revision\";N;}s:25:\"\u0000*\u0000translatableEntityKeys\";a:5:{s:5:\"label\";a:1:{s:9:\"x-default\";s:20:\"(Button) - 320852491\";}s:8:\"langcode\";a:1:{s:9:\"x-default\";s:2:\"en\";}s:9:\"published\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:16:\"default_langcode\";a:1:{s:9:\"x-default\";s:1:\"1\";}s:29:\"revision_translation_affected\";a:1:{s:9:\"x-default\";s:1:\"1\";}}s:12:\"\u0000*\u0000validated\";b:0;s:21:\"\u0000*\u0000validationRequired\";b:0;s:19:\"\u0000*\u0000loadedRevisionId\";N;s:33:\"\u0000*\u0000revisionTranslationAffectedKey\";s:29:\"revision_translation_affected\";s:37:\"\u0000*\u0000enforceRevisionTranslationAffected\";a:0:{}s:12:\"\u0000*\u0000isSyncing\";b:0;s:8:\"\u0000*\u0000theme\";N;s:19:\"\u0000*\u0000accessDependency\";N;}",
+                            "context_mapping": [],
+                            "type": "provus_button",
+                            "uuid": "812a5819-6c48-4404-9d3c-5b4f0cb2f040",
+                            "block_uuid": null
+                        },
+                        "weight": 5,
+                        "additional": []
+                    }
+                ],
+                "third_party_settings": []
+            }
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-10-27T04:01:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-27T04:01:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

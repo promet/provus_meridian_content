@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/216?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_card"
+        },
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_card\/field_provus_media_image": [
+            {
+                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/56\/edit?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 216
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b2fcc79c-a856-43fa-b971-113701769559"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "provus_card"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-10-25T04:52:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "Lost Pets (Card) - 134544637",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-25T04:52:49+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_provus_body": [
+        {
+            "value": "<p>We understand the worry that comes with a missing pet, and Animal Center is here to help reunite you with your beloved companions. If your furry friend has gone astray, explore our resources and report a lost pet to increase the chances of bringing them home.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>We understand the worry that comes with a missing pet, and Animal Center is here to help reunite you with your beloved companions. If your furry friend has gone astray, explore our resources and report a lost pet to increase the chances of bringing them home.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_provus_item_display": [
+        {
+            "value": "provus_card"
+        }
+    ],
+    "field_provus_links": [
+        {
+            "uri": "internal:\/node",
+            "title": "Explore Here",
+            "options": {
+                "attributes": {
+                    "target": ""
+                },
+                "icon": "",
+                "class": "btn btn-default"
+            }
+        }
+    ],
+    "_embedded": {
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_card\/field_provus_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/56\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c8fc6e14-daa0-4628-9748-901c275586cb"
+                    }
+                ]
+            }
+        ]
+    },
+    "field_provus_title": [
+        {
+            "value": "Lost Pets"
+        }
+    ]
+}

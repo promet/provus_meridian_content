@@ -1,26 +1,26 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/provus-local.docksal.site\/event-calendar?_format=hal_json"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/event-calendar?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/provus-local.docksal.site\/rest\/type\/node\/provus_landing_page"
+            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_landing_page"
         },
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
-                "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ]
     },
     "nid": [
         {
-            "value": 2
+            "value": 3
         }
     ],
     "uuid": [
@@ -41,41 +41,41 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-09-11T16:09:13+00:00",
+            "value": "2023-10-25T16:04:56+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "_embedded": {
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "4afaf6ee-b2d0-494e-96c7-fd625c72e3bd"
                     }
                 ]
             }
         ],
-        "http:\/\/provus-local.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/provus-local.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/provus-local.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "2bc02951-e1d9-4c98-a883-d6ebda691417"
+                        "value": "e1c05df7-2211-4fd5-9b4f-57d94efeb3a5"
                     }
                 ],
                 "lang": "en"
@@ -103,7 +103,7 @@
     ],
     "changed": [
         {
-            "value": "2023-09-11T16:09:13+00:00",
+            "value": "2023-10-25T16:04:56+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -126,10 +126,16 @@
             "lang": "en"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
     "path": [
         {
             "alias": "\/event-calendar",
-            "pid": 2,
+            "pid": 3,
             "langcode": "en",
             "lang": "en"
         }
@@ -248,11 +254,14 @@
                             "header_start": "prev,next today",
                             "header_center": "title",
                             "header_end": "dayGridMonth,timeGridWeek,timeGridDay,listMonth",
-                            "open_dialog": 1,
+                            "open_dialog": 2,
                             "dialog_width": 800,
                             "advanced": "",
                             "advanced_drupal": "",
-                            "plugins": [],
+                            "plugins": [
+                                "moment",
+                                "rrule"
+                            ],
                             "context_mapping": []
                         },
                         "weight": 1,
