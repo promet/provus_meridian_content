@@ -1,25 +1,25 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/news\/some-news-item-title-1?_format=hal_json"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/news\/some-news-item-title-1?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_news"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/node\/provus_news"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/0?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json",
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/media\/2\/edit?_format=hal_json"
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/media\/2\/edit?_format=hal_json"
             }
         ]
     },
@@ -51,14 +51,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -68,14 +68,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/0?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -86,14 +86,14 @@
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_news\/field_provus_media_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/media\/2\/edit?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/media\/2\/edit?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/media\/image"
                     }
                 },
                 "uuid": [

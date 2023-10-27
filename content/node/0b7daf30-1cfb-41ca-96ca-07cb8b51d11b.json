@@ -1,19 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/waste-recycling?_format=hal_json"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/waste-recycling?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_landing_page"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/node\/provus_landing_page"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -46,14 +46,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -63,14 +63,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [

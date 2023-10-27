@@ -1,19 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/events\/meridian-park-unveiling?_format=hal_json"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/events\/meridian-park-unveiling?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_event"
+            "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/node\/provus_event"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -46,14 +46,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_event\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -63,14 +63,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
+        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_event\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -149,11 +149,15 @@
             "lang": "en"
         }
     ],
-    "value": "2023-11-16T00:42:00+00:00",
-    "end_value": "2023-11-16T01:42:00+00:00",
-    "duration": 60,
-    "rrule": null,
-    "rrule_index": null,
-    "timezone": "",
-    "format": "Y-m-d\\TH:i:sP"
+    "field_provus_smartdate": [
+        {
+            "value": "2023-11-16T00:42:00+00:00",
+            "end_value": "2023-11-16T01:42:00+00:00",
+            "duration": 60,
+            "rrule": null,
+            "rrule_index": null,
+            "timezone": "",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
 }
