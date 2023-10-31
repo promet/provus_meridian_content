@@ -6,21 +6,18 @@
 function provus_meridian_content_install() {
   $importer = \Drupal::service('default_content_deploy.importer');
   $importer->setForceOverride(TRUE);
-
   $importer->setFolder('modules/custom/provus-meridian-content/content/01');
   $importer->prepareForImport();
-  $importer->import();
 
   $importer->setFolder('modules/custom/provus-meridian-content/content/02');
   $importer->prepareForImport();
-  $importer->import();
 
   $importer->setFolder('modules/custom/provus-meridian-content/content/03');
   $importer->prepareForImport();
-  $importer->import();
 
   $importer->setFolder('modules/custom/provus-meridian-content/content/04');
   $importer->prepareForImport();
+
   $importer->import();
 
   // Set homepage.
