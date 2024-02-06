@@ -1,19 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/section-library\/1?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/section-library\/1?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/section_library_template\/section_library_template"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/section_library_template\/section_library_template"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/waste-recycling?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/waste-recycling?_format=hal_json"
             }
         ]
     },
@@ -24,7 +24,7 @@
     ],
     "uuid": [
         {
-            "value": "4e7b14c2-ec5f-4c1b-a564-6cc1be8c9d97"
+            "value": "43bad36d-473a-41fe-a70f-3928814f5f00"
         }
     ],
     "langcode": [
@@ -33,14 +33,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/user_id": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -50,14 +50,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/section_library_template\/section_library_template\/entity_id": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/waste-recycling?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/waste-recycling?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_landing_page"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/node\/provus_landing_page"
                     }
                 },
                 "uuid": [

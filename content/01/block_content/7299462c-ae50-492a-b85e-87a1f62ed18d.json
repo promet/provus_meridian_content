@@ -1,10 +1,10 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/103?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/103?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_faq_item"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_faq_item"
         }
     },
     "id": [
@@ -42,13 +42,13 @@
     ],
     "info": [
         {
-            "value": "Alcohol Licenses (FAQ Item) - 1002427485",
+            "value": "Alcohol Licenses (FAQ Item) - 843011573",
             "lang": "en"
         }
     ],
     "changed": [
         {
-            "value": "2023-10-24T08:06:00+00:00",
+            "value": "2023-11-20T02:28:55+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -72,9 +72,9 @@
     ],
     "field_provus_body": [
         {
-            "value": "<p><span>For information concerning federal and state alcohol laws and requirements:<\/span><\/p><p>&nbsp;<\/p><p><span>Federal Alcohol Laws and Requirements<\/span><\/p><p><span>Alcohol Awareness Training (for Temporary License Holders)<\/span><\/p><p><span>Brewery Taproom &amp; Distillery Cocktail Room<\/span><\/p><p><span>Cabaret (Class A and B)<\/span><\/p><p><span>Commercial Development Districts<\/span><\/p><p><span>Entertainment (Class A, B, C)<\/span><\/p><p><span>Holiday Parties<\/span><\/p><p><span>Liquor-Adding a Family Member to a Liquor License<\/span><\/p>",
-            "format": "basic_html",
-            "processed": "<p><span>For information concerning federal and state alcohol laws and requirements:<\/span><\/p><p>\u00a0<\/p><p><span>Federal Alcohol Laws and Requirements<\/span><\/p><p><span>Alcohol Awareness Training (for Temporary License Holders)<\/span><\/p><p><span>Brewery Taproom &amp; Distillery Cocktail Room<\/span><\/p><p><span>Cabaret (Class A and B)<\/span><\/p><p><span>Commercial Development Districts<\/span><\/p><p><span>Entertainment (Class A, B, C)<\/span><\/p><p><span>Holiday Parties<\/span><\/p><p><span>Liquor-Adding a Family Member to a Liquor License<\/span><\/p>",
+            "value": "<p><span>For information concerning federal and state alcohol laws and requirements:<\/span><\/p><p>&nbsp;<\/p><p><span>Federal Alcohol Laws and Requirements<\/span><\/p><p><span>Alcohol Awareness Training <\/span><a href=\"\/node\"><span>(for Temporary License Holders)<\/span><\/a><\/p><p><span>Brewery Taproom &amp; Distillery Cocktail Room<\/span><\/p><p><span>Cabaret (Class A and B)<\/span><\/p><p><span>Commercial Development Districts<\/span><\/p><p><span>Entertainment (Class A, B, C)<\/span><\/p><p><span>Holiday Parties<\/span><\/p><p><span>Liquor-Adding a Family Member to a Liquor License<\/span><\/p>",
+            "format": "full_html",
+            "processed": "<p><span>For information concerning federal and state alcohol laws and requirements:<\/span><\/p><p>\u00a0<\/p><p><span>Federal Alcohol Laws and Requirements<\/span><\/p><p><span>Alcohol Awareness Training <\/span><a href=\"\/node\"><span>(for Temporary License Holders)<\/span><\/a><\/p><p><span>Brewery Taproom &amp; Distillery Cocktail Room<\/span><\/p><p><span>Cabaret (Class A and B)<\/span><\/p><p><span>Commercial Development Districts<\/span><\/p><p><span>Entertainment (Class A, B, C)<\/span><\/p><p><span>Holiday Parties<\/span><\/p><p><span>Liquor-Adding a Family Member to a Liquor License<\/span><\/p>",
             "summary": "",
             "lang": "en"
         }

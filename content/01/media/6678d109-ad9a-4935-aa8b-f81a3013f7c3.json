@@ -1,24 +1,24 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/media\/4\/edit?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/media\/4\/edit?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/media\/image"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/media\/image"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/uid": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/thumbnail": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/thumbnail": [
             {
                 "href": "",
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/field_media_image": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/field_media_image": [
             {
                 "href": "",
                 "lang": "en"
@@ -59,14 +59,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -77,19 +77,19 @@
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/thumbnail": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/thumbnail": [
             {
                 "_links": {
                     "self": {
                         "href": ""
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/file\/file"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/file\/file"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "e9fb7797-1d9b-48aa-9865-114356eb4a9b"
+                        "value": "6678d109-ad9a-4935-aa8b-f81a3013f7c3"
                     }
                 ],
                 "lang": "en",
@@ -99,19 +99,19 @@
                 "height": "727"
             }
         ],
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/media\/image\/field_media_image": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/media\/image\/field_media_image": [
             {
                 "_links": {
                     "self": {
                         "href": ""
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/file\/file"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/file\/file"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "e9fb7797-1d9b-48aa-9865-114356eb4a9b"
+                        "value": "6678d109-ad9a-4935-aa8b-f81a3013f7c3"
                     }
                 ],
                 "lang": "en",

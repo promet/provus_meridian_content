@@ -1,10 +1,10 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/208?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/208?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_list_item"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_list_item"
         }
     },
     "id": [
@@ -42,13 +42,13 @@
     ],
     "info": [
         {
-            "value": "PET LAWS (List Item) - 797234262",
+            "value": "PET LAWS (List Item) - 747133461",
             "lang": "en"
         }
     ],
     "changed": [
         {
-            "value": "2023-10-25T04:37:37+00:00",
+            "value": "2024-02-02T15:58:43+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -115,7 +115,7 @@
             "options": []
         }
     ],
-    "field_provus_list_text": [
+    "field_provus_title": [
         {
             "value": "PET LAWS"
         }

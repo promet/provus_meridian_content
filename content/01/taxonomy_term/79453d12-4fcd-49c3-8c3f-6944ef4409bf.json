@@ -1,12 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/taxonomy\/term\/2?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/taxonomy\/term\/2?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/taxonomy_term\/provus_category_person"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/taxonomy_term\/provus_category_person"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/taxonomy_term\/provus_category_person\/parent": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/taxonomy_term\/provus_category_person\/parent": [
             null
         ]
     },
@@ -55,7 +55,7 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/taxonomy_term\/provus_category_person\/parent": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/taxonomy_term\/provus_category_person\/parent": [
             null
         ]
     },

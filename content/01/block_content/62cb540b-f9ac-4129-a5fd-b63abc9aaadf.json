@@ -1,26 +1,26 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/63?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/63?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_stat_group"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_stat_group"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_stat_group\/field_provus_items": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_stat_group\/field_provus_items": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/59?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/59?_format=hal_json",
                 "lang": "en"
             },
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/60?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/60?_format=hal_json",
                 "lang": "en"
             },
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/61?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/61?_format=hal_json",
                 "lang": "en"
             },
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/62?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/62?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -89,14 +89,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_stat_group\/field_provus_items": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_stat_group\/field_provus_items": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/59?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/59?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_stat_item"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_stat_item"
                     }
                 },
                 "uuid": [
@@ -109,10 +109,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/60?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/60?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_stat_item"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_stat_item"
                     }
                 },
                 "uuid": [
@@ -125,10 +125,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/61?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/61?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_stat_item"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_stat_item"
                     }
                 },
                 "uuid": [
@@ -141,10 +141,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/62?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/62?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_stat_item"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_stat_item"
                     }
                 },
                 "uuid": [

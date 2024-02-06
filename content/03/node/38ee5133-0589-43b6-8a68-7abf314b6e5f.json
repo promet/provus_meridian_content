@@ -1,19 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-luc.docksal.site\/homepage?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/homepage?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/node\/provus_landing_page"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/node\/provus_landing_page"
         },
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -41,19 +41,19 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-10-26T05:46:24+00:00",
+            "value": "2023-11-20T06:12:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_landing_page\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -63,14 +63,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_landing_page\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -103,7 +103,7 @@
     ],
     "changed": [
         {
-            "value": "2023-10-26T05:46:24+00:00",
+            "value": "2023-11-20T06:12:16+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -748,24 +748,6 @@
                 },
                 "components": [
                     {
-                        "uuid": "75d1bee7-ffc7-4f3d-bee0-65aa902bf978",
-                        "region": "blb_region_col_1",
-                        "configuration": {
-                            "id": "inline_block:provus_media",
-                            "label": "%AutoEntityLabel%",
-                            "label_display": false,
-                            "provider": "layout_builder",
-                            "view_mode": "full",
-                            "block_serialized": null,
-                            "context_mapping": [],
-                            "type": "provus_media",
-                            "uuid": "a103ea9b-276b-429e-abac-5d57a7843b2a",
-                            "block_uuid": "a103ea9b-276b-429e-abac-5d57a7843b2a"
-                        },
-                        "weight": 0,
-                        "additional": []
-                    },
-                    {
                         "uuid": "a5761ea1-8bf7-4efd-9f61-a1c6ba6b3fa0",
                         "region": "blb_region_col_2",
                         "configuration": {
@@ -817,6 +799,24 @@
                             "block_uuid": "812a5819-6c48-4404-9d3c-5b4f0cb2f040"
                         },
                         "weight": 2,
+                        "additional": []
+                    },
+                    {
+                        "uuid": "a7645d4f-4106-4482-949a-ac37e854e30a",
+                        "region": "blb_region_col_1",
+                        "configuration": {
+                            "id": "inline_block:provus_media",
+                            "label": "%AutoEntityLabel%",
+                            "label_display": false,
+                            "provider": "layout_builder",
+                            "view_mode": "full",
+                            "block_serialized": null,
+                            "context_mapping": [],
+                            "type": "provus_media",
+                            "uuid": "13a667f9-0728-4e95-881d-2e77566df0c6",
+                            "block_uuid": "13a667f9-0728-4e95-881d-2e77566df0c6"
+                        },
+                        "weight": 0,
                         "additional": []
                     }
                 ],
@@ -1067,24 +1067,6 @@
                             "block_uuid": "62cb540b-f9ac-4129-a5fd-b63abc9aaadf"
                         },
                         "weight": 1,
-                        "additional": []
-                    },
-                    {
-                        "uuid": "4cba7fc6-a9af-4ef8-ad8a-33fbd11566d9",
-                        "region": "blb_region_col_1",
-                        "configuration": {
-                            "id": "inline_block:provus_group_automatic",
-                            "label": "%AutoEntityLabel%",
-                            "label_display": false,
-                            "provider": "layout_builder",
-                            "view_mode": "full",
-                            "block_serialized": null,
-                            "context_mapping": [],
-                            "type": "provus_group_automatic",
-                            "uuid": "3d3146a2-235c-426f-9dbc-eb798d70faa2",
-                            "block_uuid": "3d3146a2-235c-426f-9dbc-eb798d70faa2"
-                        },
-                        "weight": 2,
                         "additional": []
                     }
                 ],

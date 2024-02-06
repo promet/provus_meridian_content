@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/257?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_basic_text"
+        }
+    },
+    "id": [
+        {
+            "value": 257
+        }
+    ],
+    "uuid": [
+        {
+            "value": "02d0a0e3-8db7-4e68-8f6e-5cd72c777267"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "provus_basic_text"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-11-13T01:03:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "TEST 1 (Basic Text) - 1906700760",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-11-13T01:03:45+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_provus_body": [
+        {
+            "value": "<p>test<\/p>",
+            "format": "basic_html",
+            "processed": "<p>test<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_provus_title": [
+        {
+            "value": "TEST 1",
+            "lang": "en"
+        }
+    ]
+}

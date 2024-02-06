@@ -1,14 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/176?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/176?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_person_list"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_person_list"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_person_list\/field_provus_people": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_person_list\/field_provus_people": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/people\/amelie-laurent?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/people\/amelie-laurent?_format=hal_json"
             }
         ]
     },
@@ -76,14 +76,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_person_list\/field_provus_people": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_person_list\/field_provus_people": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/people\/amelie-laurent?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/people\/amelie-laurent?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/node\/provus_person"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/node\/provus_person"
                     }
                 },
                 "uuid": [

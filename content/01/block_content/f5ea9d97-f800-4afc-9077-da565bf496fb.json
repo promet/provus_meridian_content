@@ -1,10 +1,10 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/232?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/232?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_faq_item"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_faq_item"
         }
     },
     "id": [

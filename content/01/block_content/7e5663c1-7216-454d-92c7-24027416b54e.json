@@ -1,20 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/116?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/116?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_group"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_group"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_group\/field_provus_block_items": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_group\/field_provus_block_items": [
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/113?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/113?_format=hal_json"
             },
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/114?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/114?_format=hal_json"
             },
             {
-                "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/117?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/117?_format=hal_json"
             }
         ]
     },
@@ -82,14 +82,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_group\/field_provus_block_items": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_group\/field_provus_block_items": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/113?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/113?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_card"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_card"
                     }
                 },
                 "uuid": [
@@ -101,10 +101,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/114?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/114?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_card"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_card"
                     }
                 },
                 "uuid": [
@@ -116,10 +116,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/117?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/117?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_card"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_card"
                     }
                 },
                 "uuid": [

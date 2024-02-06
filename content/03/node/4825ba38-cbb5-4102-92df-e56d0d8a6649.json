@@ -1,31 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-luc.docksal.site\/people\/lily-rose-chedjou?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/people\/lily-rose-chedjou?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/node\/provus_person"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/node\/provus_person"
         },
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/media\/49\/edit?_format=hal_json",
+                "href": "http:\/\/newtheme.docksal.site\/media\/49\/edit?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
             {
-                "href": "http:\/\/meridian-demo-luc.docksal.site\/taxonomy\/term\/4?_format=hal_json"
+                "href": "http:\/\/newtheme.docksal.site\/taxonomy\/term\/4?_format=hal_json"
             }
         ]
     },
@@ -57,14 +57,14 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -74,14 +74,14 @@
                 ]
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/user\/1?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/user\/user"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
@@ -92,14 +92,14 @@
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_media_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/media\/49\/edit?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/media\/49\/edit?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/media\/image"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/media\/image"
                     }
                 },
                 "uuid": [
@@ -110,14 +110,14 @@
                 "lang": "en"
             }
         ],
-        "http:\/\/meridian-demo-luc.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/node\/provus_person\/field_provus_tax_cat_person": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/taxonomy\/term\/4?_format=hal_json"
+                        "href": "http:\/\/newtheme.docksal.site\/taxonomy\/term\/4?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/meridian-demo-luc.docksal.site\/rest\/type\/taxonomy_term\/provus_category_person"
+                        "href": "http:\/\/newtheme.docksal.site\/rest\/type\/taxonomy_term\/provus_category_person"
                     }
                 },
                 "uuid": [

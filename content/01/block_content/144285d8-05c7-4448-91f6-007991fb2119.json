@@ -1,10 +1,10 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/95?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/95?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_basic_text"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_basic_text"
         }
     },
     "id": [
@@ -42,13 +42,13 @@
     ],
     "info": [
         {
-            "value": "(Basic Text) - 23392027",
+            "value": "(Basic Text) - 547629641",
             "lang": "en"
         }
     ],
     "changed": [
         {
-            "value": "2023-10-24T06:00:23+00:00",
+            "value": "2023-11-13T22:05:14+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -72,9 +72,9 @@
     ],
     "field_provus_body": [
         {
-            "value": "<p><span>1-Know the License Requirements: \u2028Before applying for a contractor license in Meridian County. It is recommending that those applying research and understand the license requirements for the specific type of contracting work. \u2028<\/span><\/p><p><br><span>2-Meet the Experience and Education Requirements: Meridian County requires contractors to meet a minimum level of experience and education, depending on the specific type of license.<\/span><\/p><p><span>&nbsp;\u2028<\/span><br><span>3-Obtain a Surety Bond and Insurance: \u2028Contractors in Meridian County are required to obtain a surety bond and liability insurance. \u2028<\/span><\/p><p><br><span>4-Submit the Application: \u2028After meeting the license, experience, and insurance requirements, applicants can submit their contractor license application to Meridian County. The application must include all required supporting documentation, such as proof of experience, education, and a detailed business plan.<\/span><\/p><p><span>Once the application is reviewed and approved, the contractor will receive their license and can begin performing work in the county.<\/span><\/p>",
+            "value": "<p><span>1 - KNOW THE LICENSE REQUIREMENTS:&nbsp;<\/span><\/p><p><span>Before applying for a contractor license in Meridian County. It is recommending that those applying research and understand the license requirements for the specific type of contracting work. \u2028<\/span><\/p><p><br><span>2 - MEET THE EXPERIENCE AND EDUCATION REQUIREMENTS:&nbsp;<\/span><\/p><p><span>Meridian County requires contractors to meet a minimum level of experience and education, depending on the specific type of license.<\/span><\/p><p><span>&nbsp;\u2028<\/span><br><span>3 - OBTAIN A SURETY BOND AND INSURANCE:&nbsp;<\/span><\/p><p><span>Contractors in Meridian County are required to obtain a surety bond and liability insurance. \u2028<\/span><\/p><p><br><span>4 - SUBMIT THE APPLICATION:<\/span><\/p><p><span>After meeting the license, experience, and insurance requirements, applicants can submit their contractor license application to Meridian County. The application must include all required supporting documentation, such as proof of experience, education, and a detailed business plan.<\/span><\/p><p><span>Once the application is reviewed and approved, the contractor will receive their license and can begin performing work in the county.<\/span><\/p>",
             "format": "basic_html",
-            "processed": "<p><span>1-Know the License Requirements: \u2028Before applying for a contractor license in Meridian County. It is recommending that those applying research and understand the license requirements for the specific type of contracting work. \u2028<\/span><\/p><p><br \/><span>2-Meet the Experience and Education Requirements: Meridian County requires contractors to meet a minimum level of experience and education, depending on the specific type of license.<\/span><\/p><p><span>\u00a0\u2028<\/span><br \/><span>3-Obtain a Surety Bond and Insurance: \u2028Contractors in Meridian County are required to obtain a surety bond and liability insurance. \u2028<\/span><\/p><p><br \/><span>4-Submit the Application: \u2028After meeting the license, experience, and insurance requirements, applicants can submit their contractor license application to Meridian County. The application must include all required supporting documentation, such as proof of experience, education, and a detailed business plan.<\/span><\/p><p><span>Once the application is reviewed and approved, the contractor will receive their license and can begin performing work in the county.<\/span><\/p>",
+            "processed": "<p><span>1 - KNOW THE LICENSE REQUIREMENTS:\u00a0<\/span><\/p><p><span>Before applying for a contractor license in Meridian County. It is recommending that those applying research and understand the license requirements for the specific type of contracting work. \u2028<\/span><\/p><p><br \/><span>2 - MEET THE EXPERIENCE AND EDUCATION REQUIREMENTS:\u00a0<\/span><\/p><p><span>Meridian County requires contractors to meet a minimum level of experience and education, depending on the specific type of license.<\/span><\/p><p><span>\u00a0\u2028<\/span><br \/><span>3 - OBTAIN A SURETY BOND AND INSURANCE:\u00a0<\/span><\/p><p><span>Contractors in Meridian County are required to obtain a surety bond and liability insurance. \u2028<\/span><\/p><p><br \/><span>4 - SUBMIT THE APPLICATION:<\/span><\/p><p><span>After meeting the license, experience, and insurance requirements, applicants can submit their contractor license application to Meridian County. The application must include all required supporting documentation, such as proof of experience, education, and a detailed business plan.<\/span><\/p><p><span>Once the application is reviewed and approved, the contractor will receive their license and can begin performing work in the county.<\/span><\/p>",
             "summary": "",
             "lang": "en"
         }

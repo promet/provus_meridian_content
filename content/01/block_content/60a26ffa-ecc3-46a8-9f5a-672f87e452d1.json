@@ -1,12 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/admin\/content\/block\/147?_format=hal_json"
+            "href": "http:\/\/newtheme.docksal.site\/admin\/content\/block\/147?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/meridian-demo-27.docksal.site\/rest\/type\/block_content\/provus_media"
+            "href": "http:\/\/newtheme.docksal.site\/rest\/type\/block_content\/provus_media"
         },
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
             null
         ]
     },
@@ -74,7 +74,7 @@
         }
     ],
     "_embedded": {
-        "http:\/\/meridian-demo-27.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
+        "http:\/\/newtheme.docksal.site\/rest\/relation\/block_content\/provus_media\/field_provus_media": [
             null
         ]
     }
